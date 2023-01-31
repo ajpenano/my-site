@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color:#03001C;
+    margin-top: 0;
+    font-family: 'Courgette', cursive;
+}
+h2{color:#03001C; font-family: 'Ubuntu', sans-serif;}
+h3{color:#03001C; font-family: 'Ubuntu', sans-serif;}
+
+p{color: #301E67;}
+
+.top-container{
+    background-color: #B6EADA;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    padding-top: 50px;
+    background-color: #B6EADA;
+}
+.bottom-container{background-color: #B6EADA;
+}
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.dancing{display: inline-block;}
