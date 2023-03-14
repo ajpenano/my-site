@@ -85,7 +85,7 @@ hr{
     color: #7FA398;
 }
 .project-image{
-    width: 10%;
+    height: 200px;
     margin: 20px;
 }
 .carousel-control-prev-icon, .carousel-control-next-icon {
@@ -152,4 +152,4 @@ hr{
     color: #EAF6F6;
 }
 
-.copyright{color: #ffffff; /*color: #EAF6F6;*/ font-size: 0.75rem; padding: 0 0}
+.copyright{color: #ffffff; /*color: #EAF6F6;*/ font-size: 0.75rem; padding: 20px 0 0}
