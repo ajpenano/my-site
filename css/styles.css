@@ -73,9 +73,28 @@ hr{
 
 /*.profile{margin-bottom: 75px;}*/
 .intro{width: 35%; margin: auto;}
-.skills{margin-top: 75px; margin-bottom: 75px;}
 
-.skill-row{
+.projects{margin-top: 75px; margin-bottom: 75px;}
+.project-title:hover{
+    color: #7FA398;
+}
+.project-text{
+    color: #40514E;
+}
+.project-text:hover{
+    color: #7FA398;
+}
+.project-image{
+    width: 10%;
+    margin: 20px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(100%);
+}
+
+.hobbies{margin-top: 75px; margin-bottom: 75px;}
+
+.hobby-row{
     width: 50%;
     margin: 50px auto 50px auto;
     text-align: left;
@@ -134,5 +153,3 @@ hr{
 }
 
 .copyright{color: #ffffff; /*color: #EAF6F6;*/ font-size: 0.75rem; padding: 0 0}
-
-
